@@ -1,4 +1,4 @@
-#  <center> UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization  [CVPR 2026]
+#  <center>  [CVPR 2026] UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization 
 <!-- 
 
 > [[Paper]()]
