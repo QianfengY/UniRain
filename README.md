@@ -22,7 +22,7 @@
 
 | Method    |  DRS |DRD | NRS |NRD |
 |--------|------|------|------|------|
-| PReNet    |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
+| PReNet    |  [Baidu Netdisk](https://pan.baidu.com/s/10qUU7ukkB0g5Lyfi78J2UA?pwd=1234) (1234) | [Baidu Netdisk]( https://pan.baidu.com/s/1U8vI_2y4bDNfwDPMEOgHrg?pwd=1234) (1234)| [Baidu Netdisk](https://pan.baidu.com/s/1OkORVlu7lPcl8GzFCRBmZQ?pwd=1234) (1234)| [Baidu Netdisk]() (6666)|
 | RCDNet    |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
 | MPRNet    |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
 | Restormer |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
