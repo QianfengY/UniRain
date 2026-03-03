@@ -34,6 +34,20 @@
 | URIR      |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
 | UniRain (Ours) |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
 
+| Method    |  RealRain-1k-L | RealRain-1k-H | RainDS-real-RD |RainDS-real-RDS | WeatherBench-rain |
+|--------|------|------|------|------|------|
+| PReNet    |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| RCDNet    |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| MPRNet    |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| Restormer |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| IDT       |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| DRSformer |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| RLP       |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| MSDT      |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| NeRD-Rain |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| URIR      |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+| UniRain (Ours) |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+
 ---
 
 
