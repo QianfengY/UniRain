@@ -1,4 +1,6 @@
 #  <center>  [CVPR 2026] UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization 
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=QianfengY/UniRain)
+[![GitHub Stars](https://img.shields.io/github/stars/QianfengY/UniRain?style=social)](https://github.com/QianfengY/UniRain)
 
 > [Paper] &emsp; [Supplemental Material]
 
