@@ -10,33 +10,30 @@
  
 ---
 
-## :hammer: Overview
+### :hammer: Overview
 ![image](https://github.com/QianfengY/UniRain/blob/main/figs/UniRain.png)
 *Overall framework of UniRain. (Left) The RAG-based dataset distillation pipeline retrieves real rainy references consistent with the query image via multi-level similarity search and employs vision language models to evaluate its quality, thereby distilling reliable samples from public datasets. (Right) The asymmetric MoE architecture consists of soft-MoE encoder and hard-MoE decoder, optimized via the multi-objective reweighted strategy to achieve balanced learning and robust performance across multiple rain degradation types.*
 
 ---
 ### 🚩 **New Features/Updates**
-- ✅ February 21, 2026. Our UniRain was accepted by **CVPR 2026**!
-  
-### Citation
-If this work is helpful for your research, please consider citing the following BibTeX entry.
-```
-@article{UniRain,
-      title={UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization},
-      author={Yang, Qainfeng and Guan, Qiyuan and Chen, Xiang and Jin, Jiyu and Jin, Guiyue and Dong, Jiangxin},
-      journal={CVPR},
-      year={2026}
-}
- ```
+- ✅ March 03, 2026. Release the dataset, visual results, and testing code.
+- ✅ February 21, 2026. 🎉 Our UniRain was accepted by **CVPR 2026**!
+### ⚡ **To Do**
+- [x] Release training code and training set
+---
+### :book: Dataset Download
+| Download Link | Description |
+|---------|------|
+|  [Baidu Netdisk]( ) (1111)  | Tran: 0,000 pairs.    Test: 000 pairs. |
+---
 
-### Contact
-If you have any questions, please feel free to reach us out at <a href="mailto:csqianfengyang@163.com">csqianfengyang@163.com</a>.
-
-## 📘 Performance Evaluation
+### 📘 Performance Evaluation
 ![image](https://github.com/QianfengY/UniRain/blob/main/figs/Table1.png)
 ![image](https://github.com/QianfengY/UniRain/blob/main/figs/Table2.png)
+
 ---
-## 📷️ Visual Results
+
+### 📷️ Visual Results
 
 | Method    |  DRS |DRD | NRS |NRD |
 |--------|------|------|------|------|
@@ -67,5 +64,18 @@ If you have any questions, please feel free to reach us out at <a href="mailto:c
 | UniRain (Ours) |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
 
 ---
+### Citation
+If this work is helpful for your research, please consider citing the following BibTeX entry.
+```
+@article{UniRain,
+      title={UniRain: Unified Image Deraining with RAG-based Dataset Distillation and Multi-objective Reweighted Optimization},
+      author={Yang, Qainfeng and Guan, Qiyuan and Chen, Xiang and Jin, Jiyu and Jin, Guiyue and Dong, Jiangxin},
+      journal={CVPR},
+      year={2026}
+}
+ ```
+---
 
+### Contact
+If you have any questions, please feel free to reach us out at <a href="mailto:csqianfengyang@163.com">csqianfengyang@163.com</a>.
 
