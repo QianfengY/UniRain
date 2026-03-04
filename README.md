@@ -21,10 +21,10 @@
 ### ⚡ **To Do**
 - [x] Release training code and training set
 ---
-### 📥 Dataset Download
-| Training dataset | Test datasets |
-|---------|------|
-|  [Baidu Netdisk]( ) (1111)  | [Baidu Netdisk]( ) (1111)  |
+### 📥 RainRAG Dataset Download
+|Mixed training dataset |classified training dataset | Test datasets |
+|---------|------|------|
+|  [Baidu Netdisk]( https://pan.baidu.com/s/1SrZBFBFbf5H43SgwtP7Y4w?pwd=1234 ) | [Baidu Netdisk](https://pan.baidu.com/s/1ZA8VdTUrKon4iIPp_8mz6g?pwd=1234 )  |[Baidu Netdisk]( ) (1111)  |
 ---
 
 ### 📈 Performance Evaluation
