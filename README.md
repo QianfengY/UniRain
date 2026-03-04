@@ -29,7 +29,6 @@
 
 ### 📘 Performance Evaluation
 ![image](https://github.com/QianfengY/UniRain/blob/main/figs/Table1.png)
-![image](https://github.com/QianfengY/UniRain/blob/main/figs/Table2.png)
 
 ---
 
@@ -49,19 +48,7 @@
 | URIR      |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
 | UniRain (Ours) |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|
 
-| Method    |  RealRain-1k-L | RealRain-1k-H | RainDS-real-RD |RainDS-real-RDS | WeatherBench-rain |
-|--------|------|------|------|------|------|
-| PReNet    |  [Baidu Netdisk](https://pan.baidu.com/s/1gbiYXxpBX9QagH7uCQP4NQ?pwd=1234) | [Baidu Netdisk](https://pan.baidu.com/s/1_i_zkIl3H0Lq8EAJkcRCgg?pwd=1234)| [Baidu Netdisk]( https://pan.baidu.com/s/1TKdoMpM0EsrEH6HLqMulyw?pwd=1234)| [Baidu Netdisk]( https://pan.baidu.com/s/1UDT_w-zDB9v70Wqzx5qcKQ?pwd=1234) |[Baidu Netdisk](https://pan.baidu.com/s/1ilcESAVYpMuu33EeGcHR3w?pwd=1234)|
-| RCDNet    |  [Baidu Netdisk](https://pan.baidu.com/s/1HJxhUry2owUI6QM3pWbH5g?pwd=1234) | [Baidu Netdisk](https://pan.baidu.com/s/1ik1gb_7wQLvqXK5bj43vGw?pwd=1234)| [Baidu Netdisk](https://pan.baidu.com/s/14HaPwiPBFRpgL1ky385rvw?pwd=1234)| [Baidu Netdisk](https://pan.baidu.com/s/1DZ33DI3aEHaW_PEg4XA9bw?pwd=1234)|[Baidu Netdisk](https://pan.baidu.com/s/1iyq1S0PPBUY3PtKqJu_j-Q?pwd=1234 )|
-| MPRNet    |  [Baidu Netdisk]( https://pan.baidu.com/s/1oF_-m-PXQbiww3sfyvrOLQ?pwd=1234) | [Baidu Netdisk](https://pan.baidu.com/s/1KPmOVo_KBuQ61F-nU1mdzw?pwd=1234)| [Baidu Netdisk](https://pan.baidu.com/s/1NGgLo8E69g7-EU5NdVlVCw?pwd=1234)| [Baidu Netdisk](https://pan.baidu.com/s/1myjvNi--1rvVmhIlLV7b1A?pwd=1234) |[Baidu Netdisk](https://pan.baidu.com/s/10-kJYHhZ6jVwZ4nUtVSXhw?pwd=1234)|
-| Restormer |  [Baidu Netdisk](https://pan.baidu.com/s/1x50DAIx7q5DUSKIjVQ796w?pwd=1234)  | [Baidu Netdisk]( https://pan.baidu.com/s/1N4uYXMDPWwCKdcz1J4RDxw?pwd=1234)| [Baidu Netdisk](https://pan.baidu.com/s/1XM5t04GUOY-g5-u4qcf0eA?pwd=1234)| [Baidu Netdisk]( https://pan.baidu.com/s/1fgFZuQrTjzuu7MGp3wCleA?pwd=1234)|[Baidu Netdisk](https://pan.baidu.com/s/189dHmTJPPW1SppGzm00tMw?pwd=1234) |
-| IDT       |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
-| DRSformer |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
-| RLP       |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
-| MSDT      |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
-| NeRD-Rain |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
-| URIR      |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
-| UniRain (Ours) |  [Baidu Netdisk]() (6666) | [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)| [Baidu Netdisk]() (6666)|[Baidu Netdisk]() (6666)|
+
 
 ---
 ### Citation
