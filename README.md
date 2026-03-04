@@ -22,7 +22,7 @@
 - [x] Release training code and training set
 ---
 ### 📥 RainRAG Dataset Download
-|Mixed training dataset |classified training dataset | Test datasets |
+|Mixed training dataset |Classified training dataset | Test datasets |
 |---------|------|------|
 |  [Baidu Netdisk]( https://pan.baidu.com/s/1SrZBFBFbf5H43SgwtP7Y4w?pwd=1234 ) | [Baidu Netdisk](https://pan.baidu.com/s/1ZA8VdTUrKon4iIPp_8mz6g?pwd=1234 )  |[Baidu Netdisk](https://pan.baidu.com/s/1spk8-8PTOa_o8b0dI4beqA?pwd=1234) |
 ---
