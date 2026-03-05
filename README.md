@@ -18,6 +18,7 @@
 
 ---
 ### 🚩 **New Features/Updates**
+- ✅  March 05, 2026. Release UniRain [Paper](https://arxiv.org/abs/2603.03967).
 - ✅ March 03, 2026. Release the dataset, visual results, and testing code.
 - ✅ February 21, 2026. 🎉 Our UniRain was accepted by **CVPR 2026**!
 ### ⚡ **To Do**
