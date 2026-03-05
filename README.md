@@ -2,7 +2,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=QianfengY/UniRain)
 [![GitHub Stars](https://img.shields.io/github/stars/QianfengY/UniRain?style=social)](https://github.com/QianfengY/UniRain)
 
-> [Paper] &emsp; [Supplemental Material]
+> [Paper](https://arxiv.org/abs/2603.03967) &emsp; [Supplemental Material]
 
 > [Qianfeng Yang](https://qianfengy.github.io/) <sup>1</sup>, [Qiyuan Guan](https://guanqiyuan.github.io/) <sup>1</sup>, [Xiang Chen](https://cschenxiang.github.io/) <sup>2</sup>, Jiyu Jin* <sup>1</sup>,  Guiyue Jin <sup>1</sup>, [Jiangxin Dong](https://scholar.google.com/citations?user=ruebFVEAAAAJ&hl=zh-CN&oi=ao) <sup>2</sup>
 >
