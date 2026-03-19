@@ -31,6 +31,23 @@
 |  [Baidu Netdisk]( https://pan.baidu.com/s/1SrZBFBFbf5H43SgwtP7Y4w?pwd=1234 ) | [Baidu Netdisk](https://pan.baidu.com/s/1ZA8VdTUrKon4iIPp_8mz6g?pwd=1234 )  |[Baidu Netdisk](https://pan.baidu.com/s/1spk8-8PTOa_o8b0dI4beqA?pwd=1234) |
 ---
 
+### 🛠 Setup
+#### Environment:
+```
+conda env create --name UniRain -f environment.yml
+conda activate UniRain
+```
+#### How to train:
+```
+python train.py
+```
+#### How to evaluation:
+```
+python test.py
+```
+---
+
+
 ### 📈 Performance Evaluation
 ![image](https://github.com/QianfengY/UniRain/blob/main/figs/Table1.png)
 
@@ -53,21 +70,6 @@
 | UniRain (Ours) |  [Baidu Netdisk](https://pan.baidu.com/s/19nbPXixwBsTfRSDilt-KMQ?pwd=1234) | [Baidu Netdisk](https://pan.baidu.com/s/1tlTdDLMdSKa-QNRvUkEwEA?pwd=1234) | [Baidu Netdisk](https://pan.baidu.com/s/1xkN0XitcMRLOosDA-NR00g?pwd=1234) | [Baidu Netdisk]( https://pan.baidu.com/s/1zjtkfWu7t-YLsiE98AaRfA?pwd=1234)|
 
 
-
-## 🛠 Setup
-#### Environment:
-```
-conda env create --name UniRain -f environment.yml
-conda activate UniRain
-```
-#### How to train:
-```
-python train.py
-```
-#### How to evaluation:
-```
-python test.py
-```
 
 
 ---
