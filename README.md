@@ -54,6 +54,22 @@
 
 
 
+## 🛠 Setup
+#### Environment:
+```
+conda env create --name UniRain -f environment.yml
+conda activate UniRain
+```
+#### How to train:
+```
+python train.py
+```
+#### How to evaluation:
+```
+python test.py
+```
+
+
 ---
 ### 💖 Citation
 If this work is helpful for your research, please consider citing the following BibTeX entry.
